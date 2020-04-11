@@ -1,2 +1,2 @@
-# Exercicios de lógica com Visual C#
+# Exercícios de lógica com Visual C#
 Resolução dos Exercícios de lógica com Visual C#
