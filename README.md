@@ -1,2 +1,2 @@
-# exercicios-visual-csharp
- Exercícios de lógica com Visual C#
+# Exercicios de lógica com Visual C#
+Resolução dos Exercícios de lógica com Visual C#
