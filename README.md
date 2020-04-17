@@ -2,4 +2,4 @@
 ***
 Resolução dos Exercícios de lógica com Visual C#
 
-* Lista dos exercícios em pdf - clique aqui
+* [Lista dos exercícios em pdf - clique aqui](https://github.com/cidacastello/exercicios-visual-csharp/tree/master/lista-de-exercicios)
