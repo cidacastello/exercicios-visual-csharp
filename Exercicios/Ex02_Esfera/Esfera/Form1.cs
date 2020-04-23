@@ -33,7 +33,7 @@ namespace Esfera
 
             raio = Double.Parse(txtRaio.Text);
 
-            volume = 4.0 / 3.0 * Math.Pow(raio, 3);
+            volume = 4.0 / 3.0 * Math.PI* Math.Pow(raio, 3);
 
             txtVolume.Text = volume.ToString();
 
